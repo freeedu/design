@@ -1,0 +1,44 @@
+#########################################################################################################
+#
+#	Author	: Mason
+#   Date	: April 30th, 3013
+#
+#########################################################################################################
+
+Please read this file first carefully before doing anything.
+
+
+Section 1:	 Project Structure
+=========================================================================================================
+I will describe the folder structure in detail, please following the standard while you do anything within
+ the project.
+
+OriginalIdea:	All the ideas about this project will be recorded here. We will create a file for each idea.
+				If you have any idea about what the project need, just create a file with following naming 
+				standard:	ideaname_createdate_author.oi
+				
+				If you want to modify you ideas or add any additional opinions just modify the file and then
+				commit the file with your modification. If we using the task management system. please add 
+				the task number with this.
+				
+ConceptDesign:	This should be done weekly, if you have any idea change please discuss it with the project
+				owner and then you can do some concept design when you achieve an agreement. To finish the 
+				concept	design, the idea owner should schedule a meeting with the project owner and all the 
+				contributors to discuss the ideas for at least three time. The idea owner should record and 
+				analysis the discussion and make a report about the meeting, and then send to all the attendee
+				to make sure there is no misunderstanding. When all agreed, the owner should submit the result
+				and then starting the detail designing.
+				
+DetailDesign:	This should be started while the concept designing finished. The idea owner should finished 
+				the first version details design base on the concept design discussion. The first version 
+				design should be finished in one week since the concept designing achieve the agreement. And 
+				then notify the project owner and all the core attendees to discuss the design and then organize 
+				the discuss result and then send to all the attendee to make an agreement. When achieved, the 
+				project should base on the idea result. Schedule a meeting with all the related people to discuss 
+				what should be doing in the	following month.
+				
+FunctionVerification:	When the Detail design finish and the project owner make a decision to do this in the next
+				month, the project will invite the idea owner to make a plan of the development and the result 
+				verification. The project will invoke the owner and the testing people to discuss the testing 
+				related working. And submit the testing plan of the ideas.
+ 
